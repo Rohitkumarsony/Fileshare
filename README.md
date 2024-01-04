@@ -15,6 +15,4 @@ used postman for check file
 #before checking uncomment this line in views.py
  # permission_classes=[IsAuthenticated]
 
-username=rohit
-password=rohit@9211
 
